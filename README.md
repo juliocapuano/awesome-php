@@ -494,8 +494,13 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Dompdf](https://github.com/dompdf/dompdf) - A HTML to PDF converter.
 * [PHPPdf](https://github.com/psliwa/PHPPdf) - A library for generating PDFs and images from XML.
+* [PHP WkHtmlToPdf](https://github.com/mikehaertl/phpwkhtmltopdf) - A interface to PDF and image creation with wkhtmltopdf.
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
-* [WKHTMLToPDF](https://github.com/wkhtmltopdf/wkhtmltopdf) - A tool to convert HTML to PDF.
+> #### WHTMtoPDF *binaries*
+> * [WKHTMLToPDF](https://github.com/wkhtmltopdf/wkhtmltopdf) - A binary tool to convert HTML to PDF `Source Code`
+>	 + [wkhtmltopdf-linux-x64](https://github.com/h4cc/wkhtmltopdf-amd64) - Precompiled binary for linux-x64 
+>    + [wkhtmltopdf-linux-x86](https://github.com/h4cc/wkhtmltopdf-i386) - Precompiled binary for linux-x86
+>    + [wkhtmltopdf-windows](https://github.com/wemersonjanuario/wkhtmltopdf-windows) - Precompiled binary for Windows
 
 ### Office
 *Libraries for working with office suite documents.*
